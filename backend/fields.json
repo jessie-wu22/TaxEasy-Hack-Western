@@ -1,0 +1,2335 @@
+{
+    "return.pdf": {
+        "0": {
+            "type": "Button",
+            "name": "form1[0].#pageSet[0].Page1[0].ClearData_EN[0]",
+            "namealt": "Clear Data",
+            "flags": "65536",
+            "value": "",
+            "justification": "Left"
+        },
+        "1": {
+            "type": "Button",
+            "name": "form1[0].#pageSet[0].Page1[1].ClearData_EN[0]",
+            "namealt": "Clear Data",
+            "flags": "65536",
+            "value": "",
+            "justification": "Left"
+        },
+        "2": {
+            "type": "Button",
+            "name": "form1[0].#pageSet[0].Page1[2].ClearData_EN[0]",
+            "namealt": "Clear Data",
+            "flags": "65536",
+            "value": "",
+            "justification": "Left"
+        },
+        "3": {
+            "type": "Button",
+            "name": "form1[0].#pageSet[0].Page1[3].ClearData_EN[0]",
+            "namealt": "Clear Data",
+            "flags": "65536",
+            "value": "",
+            "justification": "Left"
+        },
+        "4": {
+            "type": "Button",
+            "name": "form1[0].#pageSet[0].Page1[4].ClearData_EN[0]",
+            "namealt": "Clear Data",
+            "flags": "65536",
+            "value": "",
+            "justification": "Left"
+        },
+        "5": {
+            "type": "Button",
+            "name": "form1[0].#pageSet[0].Page1[5].ClearData_EN[0]",
+            "namealt": "Clear Data",
+            "flags": "65536",
+            "value": "",
+            "justification": "Left"
+        },
+        "6": {
+            "type": "Button",
+            "name": "form1[0].#pageSet[0].Page1[6].ClearData_EN[0]",
+            "namealt": "Clear Data",
+            "flags": "65536",
+            "value": "",
+            "justification": "Left"
+        },
+        "7": {
+            "type": "Button",
+            "name": "form1[0].#pageSet[0].Page1[7].ClearData_EN[0]",
+            "namealt": "Clear Data",
+            "flags": "65536",
+            "value": "",
+            "justification": "Left"
+        },
+        "8": {
+            "type": "",
+            "name": "form1[0].#pageSet[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "9": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].Identification[0].ID_FirstNameInitial[0]",
+            "namealt": "Step 1. Identification and other information. First name and initial.",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Left"
+        },
+        "10": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].Identification[0].ID_LastName[0]",
+            "namealt": "Step 1. Identification and other information. Last name.",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Left"
+        },
+        "11": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].Identification[0].ID_MailingAddress[0]",
+            "namealt": "Step 1. Identification and other information. Mailing address. Apartment number. Street number. Street name.",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Left"
+        },
+        "12": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].Identification[0].ID_POBox[0]",
+            "namealt": "Step 1. Identification and other information. Post Office Box",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Left"
+        },
+        "13": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].Identification[0].ID_RuralRoute[0]",
+            "namealt": "Step 1. Identification and other information. Rural Route.",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Left"
+        },
+        "14": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].Identification[0].ID_City[0]",
+            "namealt": "Step 1. Identification and other information. City.",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Left"
+        },
+        "15": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].Identification[0].ID_ProvinceTerritory_Comb[0].ProvinceTerritory[0]",
+            "namealt": "Step 1. Identification and other information. Province or Territory. 2 characters.",
+            "flags": "25165824",
+            "value": "",
+            "justification": "Center",
+            "maxlength": "2"
+        },
+        "16": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].Identification[0].ID_PostalCode_Comb[0].PostalCode[0]",
+            "namealt": "Step 1. Identification and other information. Postal code. 6 characters.",
+            "flags": "25165824",
+            "value": "",
+            "justification": "Left",
+            "maxlength": "6"
+        },
+        "17": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].Emailsf[0].Email_address_line[0]",
+            "namealt": "Enter an email address.",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Left"
+        },
+        "18": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].InfoAboutYourRes[0].ResOnDec31_Field[0]",
+            "namealt": "Step 1. Identification and other information. Enter your province or territory of residence on December 31, 2019.",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Left"
+        },
+        "19": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].InfoAboutYourRes[0].CurrentRes_Field[0]",
+            "namealt": "Step 1. Identification and other information. Enter the province or territory where you currently reside if it is not the same as your mailing address above.",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Left"
+        },
+        "20": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].InfoAboutYourRes[0].ProvTerrSelfEmployed_Field[0]",
+            "namealt": "Step 1. Identification and other information. If you were self-employed in 2019, enter the province or territory where your business had a permanent establishment.",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Left"
+        },
+        "21": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].InfoAboutYourRes[0].BecameCeasedRes_EntryDate[0].EntryDate_Comb[0]",
+            "namealt": "Step 1. Identification and other information. If you became a resident of Canada for income tax purposes in 2019, enter the date of entry. Month 2 digits. Day 2 digits.",
+            "flags": "25165824",
+            "value": "",
+            "justification": "Left",
+            "maxlength": "4"
+        },
+        "22": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].InfoAboutYourRes[0].BecameCeasedRes_DepartDate[0].DepartDate_Comb[0]",
+            "namealt": "Step 1. Identification and other information. If you ceased to be a resident of Canada for income tax purposes in 2019, enter the date of departure. Month 2 digits. Day 2 digits.",
+            "flags": "25165824",
+            "value": "",
+            "justification": "Left",
+            "maxlength": "4"
+        },
+        "23": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].InfoAboutYou[0].YourSIN_Comb[0].SIN_Comb[0]",
+            "namealt": "Step 1. Identification and other information. Enter your social insurance number. 9 digits.",
+            "flags": "25165824",
+            "value": "",
+            "justification": "Left",
+            "maxlength": "9"
+        },
+        "24": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].InfoAboutYou[0].YourDOB_Comb[0].Date_Comb[0]",
+            "namealt": "Step 1. Identification and other information. Enter your date of birth. Year 4 digits. Month 2 digits. Day 2 digits.",
+            "flags": "25165824",
+            "value": "",
+            "justification": "Left",
+            "maxlength": "8"
+        },
+        "25": {
+            "type": "Button",
+            "name": "form1[0].Page1[0].Page1[0].InfoAboutYou[0].RadioButtonlanguaget[0]",
+            "flags": "49152",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "0",
+                "1",
+                "2",
+                "Off"
+            ]
+        },
+        "26": {
+            "type": "",
+            "name": "form1[0].Page1[0].Page1[0].InfoAboutYou[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "27": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].PersonDeceased2012[0].DeceasedDateOfDeath[0].Date_Comb[0]",
+            "namealt": "Step 1. Identification and other information. If this return is for a deceased person, enter the date of death. Year 4 digits. Month 2 digits. Day 2 digits.",
+            "flags": "25165824",
+            "value": "",
+            "justification": "Left",
+            "maxlength": "8"
+        },
+        "28": {
+            "type": "",
+            "name": "form1[0].Page1[0].Page1[0].PersonDeceased2012[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "29": {
+            "type": "Button",
+            "name": "form1[0].Page1[0].Page1[0].MaritalStatus[0].MaritalStatus_Checkbox[0].MaritalStatus[0]",
+            "namealt": "Step 1. Identification and other information. Tick the box that applies to your marital status on December 31, 2019.  Married.",
+            "flags": "0",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "1",
+                "Off"
+            ]
+        },
+        "30": {
+            "type": "Button",
+            "name": "form1[0].Page1[0].Page1[0].MaritalStatus[0].MaritalStatus_Checkbox[0].MaritalStatus[1]",
+            "namealt": "Living common-law.",
+            "flags": "0",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "2",
+                "Off"
+            ]
+        },
+        "31": {
+            "type": "Button",
+            "name": "form1[0].Page1[0].Page1[0].MaritalStatus[0].MaritalStatus_Checkbox[0].MaritalStatus[2]",
+            "namealt": "Widowed.",
+            "flags": "0",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "3",
+                "Off"
+            ]
+        },
+        "32": {
+            "type": "Button",
+            "name": "form1[0].Page1[0].Page1[0].MaritalStatus[0].MaritalStatus_Checkbox[0].MaritalStatus[3]",
+            "namealt": "Divorced.",
+            "flags": "0",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "4",
+                "Off"
+            ]
+        },
+        "33": {
+            "type": "Button",
+            "name": "form1[0].Page1[0].Page1[0].MaritalStatus[0].MaritalStatus_Checkbox[0].MaritalStatus[4]",
+            "namealt": "Separated.",
+            "flags": "0",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "5",
+                "Off"
+            ]
+        },
+        "34": {
+            "type": "Button",
+            "name": "form1[0].Page1[0].Page1[0].MaritalStatus[0].MaritalStatus_Checkbox[0].MaritalStatus[5]",
+            "namealt": "Single.",
+            "flags": "0",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "6",
+                "Off"
+            ]
+        },
+        "35": {
+            "type": "",
+            "name": "form1[0].Page1[0].Page1[0].MaritalStatus[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "36": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].InfoAboutYourSpouse[0].SpouseSIN_Comb[0].SIN_Comb[0]",
+            "namealt": "Step 1. Identification and other information. Information about your spouse or common-law partner, if you ticked box 1 or 2 above. Enter their social insurance number. 9 digits.",
+            "flags": "25165824",
+            "value": "",
+            "justification": "Left",
+            "maxlength": "9"
+        },
+        "37": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].InfoAboutYourSpouse[0].SpouseFirstName[0]",
+            "namealt": "Step 1. Identification and other information. Enter their first name.",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Left",
+            "maxlength": "30"
+        },
+        "38": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].InfoAboutYourSpouse[0].Spouse_Income[0].Spouse_Income_Amount[0]",
+            "namealt": "Step 1. Identification and other information. Enter their net income for 2019 to claim certain credits.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "39": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].InfoAboutYourSpouse[0].Spouse_UCCB[0].Spouse_UCCB_Amount[0]",
+            "namealt": "Step 1. Identification and other information. Enter the amount of universal child care benefit from line 11700 of their return.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "40": {
+            "type": "Text",
+            "name": "form1[0].Page1[0].Page1[0].InfoAboutYourSpouse[0].Spouse_UCCBRepayment[0].Spouse_UCCBRepayment_Amount[0]",
+            "namealt": "Step 1. Identification and other information. Enter the amount of universal child care benefit repayment from line 21300 of their return.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "41": {
+            "type": "Button",
+            "name": "form1[0].Page1[0].Page1[0].InfoAboutYourSpouse[0].Spouse_SelfEmployed[0]",
+            "namealt": "Step 1. Identification and other information. Tick this box if they were self-employed in 2019.",
+            "flags": "0",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "1",
+                "Off"
+            ]
+        },
+        "42": {
+            "type": "",
+            "name": "form1[0].Page1[0].Page1[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "43": {
+            "type": "",
+            "name": "form1[0].Page1[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "44": {
+            "type": "Button",
+            "name": "form1[0].Page2[0].ElectionsCanada[0].A_CheckBox[0]",
+            "namealt": "Step 1. Identification and other information.  Elections Canada. A. Do you have Canadian citizenship? Yes. If yes, go to question B.",
+            "flags": "0",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "1",
+                "Off"
+            ]
+        },
+        "45": {
+            "type": "Button",
+            "name": "form1[0].Page2[0].ElectionsCanada[0].A_CheckBox[1]",
+            "namealt": "Step 1. Identification and other information. Elections Canada. A. Do you have Canadian citizenship? No. If no, skip question B. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "2",
+                "Off"
+            ]
+        },
+        "46": {
+            "type": "Button",
+            "name": "form1[0].Page2[0].ElectionsCanada[0].B_Authorize_CheckBox[0]",
+            "namealt": "Step 1. Identification and other information. Elections Canada. B. As a Canadian citizen, do you authorize the Canada Revenue Agency to give your name, address, date of birth, and citizenship to Elections Canada to update the National Register of Electors or, if you are aged 14 to 17, to update the Register of Future Electors? Yes.",
+            "flags": "0",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "1",
+                "Off"
+            ]
+        },
+        "47": {
+            "type": "Button",
+            "name": "form1[0].Page2[0].ElectionsCanada[0].B_Authorize_CheckBox[1]",
+            "namealt": "Step 1. Identification and other information. Elections Canada. B. As a Canadian citizen, do you authorize the Canada Revenue Agency to give your name, address, date of birth, and citizenship to Elections Canada to update the National Register of Electors or, if you are aged 14 to 17, to update the Register of Future Electors? No.",
+            "flags": "0",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "2",
+                "Off"
+            ]
+        },
+        "48": {
+            "type": "Button",
+            "name": "form1[0].Page2[0].Tax_exempt[0].Spouse_SelfEmployed[0]",
+            "namealt": "Step 1. Identification and other information. Indian Act-Exempt income. Tick this box if you have any income that is exempt under the Indian Act. For more information on this type of income, go to canada.ca/taxes-aboriginal-peoples. If you tick this box, complete Form T90, Income exempt under the Indian Act. Complete this form so that the CRA can calculate your Canada Training Credit Limit for the 2020 tax year. The information you provide may also be used to calculate your Canada Workers Benefit for the 2019 tax year, if applicable.",
+            "flags": "0",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "1",
+                "Off"
+            ]
+        },
+        "49": {
+            "type": "Button",
+            "name": "form1[0].Page2[0].Foreign_property[0].ForeignProperty_CheckBox[0]",
+            "namealt": "Step 1. Identification and other information. Line 26600. Did you own or hold specified foreign property where the total cost amount of all such property, at any time in 2019, was more than $100,000 Canadian? Yes. If yes, get and complete Form T1135, Foreign Income Verification Statement. There are substantial penalties for not completing and filing Form T1135 by the due date. For more information, see Form T1135. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "1",
+                "Off"
+            ]
+        },
+        "50": {
+            "type": "Button",
+            "name": "form1[0].Page2[0].Foreign_property[0].ForeignProperty_CheckBox[1]",
+            "namealt": "Step 1. Identification and other information. Line 26600. Did you own or hold specified foreign property where the total cost amount of all such property, at any time in 2019, was more than $100,000 Canadian? No.",
+            "flags": "0",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "2",
+                "Off"
+            ]
+        },
+        "51": {
+            "type": "",
+            "name": "form1[0].Page2[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "52": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_10100_EmploymentIncome[0].Line_10100_Amount[0]",
+            "namealt": "Step 2. Total income. Line 10100. Employment income. Box 14 of all T4 slips.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "53": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_10105_Taxexemptamount[0].Line_10105_Amount[0]",
+            "namealt": "Step 2. Total income. Line 10105. Tax-exempt income for emergency services volunteers. See line 10100 in the guide.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "54": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_10120_Commissions[0].Line_10120_Amount[0]",
+            "namealt": "Step 2. Total income. Line 10120. Commissions included on line 10100. Box 42 of all T4 slips.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "55": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_10130_sf[0].Line_10130_Amount[0]",
+            "namealt": "Step 2. Total income. Line 10130. Wage- loss replacement contributions. See line 10100 in the guide.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "56": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_10400_OtherEmploymentIncome[0].Line_10400_Amount[0]",
+            "namealt": "Step 2. Total income. Line 10400. Other employment income.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "57": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_11300_OldAgeSecurityPension[0].Line_11300_Amount[0]",
+            "namealt": "Step 2. Total income. Line 11300. Old age security pension. Box 18 of the T4A(OAS) slip.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "58": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_11400_CPP_QPP[0].Line_11400_Amount[0]",
+            "namealt": "Step 2. Total income. Line 11400. Canada pension plan or Quebec pension plan benefits. Box 20 of the T4A(P) slip.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "59": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_11410_DisabilityBenefits[0].Line_11410_Amount[0]",
+            "namealt": "Step 2. Total income. Line 11410. Disability benefits included on line 11400. Box 16 of the T4A(P) slip.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "60": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_11500_OtherPensions[0].Line_11500_Amount[0]",
+            "namealt": "Step 2. Total income. Line 11500. Other pensions and superannuation. See line 11500 in the guide and complete line 31400 in the Worksheet for the return.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "61": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_11600_ElectedSplitPension[0].Line_11600_Amount[0]",
+            "namealt": "Step 2. Total income. Line 11600. Elected split-pension amount. Get and complete Form T1032.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "62": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_11700_UCCB[0].Line_11700_Amount[0]",
+            "namealt": "Step 2. Total income. Line 11700. Universal child care benefit. See the RC62 slip.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "63": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_11701_UCCBDesignated[0].Line_11701_Amount[0]",
+            "namealt": "Step 2. Total income. Line 11701. Universal child care benefit amount designated to a dependant.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "64": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_11900_EmploymentInsurance[0].Line_11900_Amount[0]",
+            "namealt": "Step 2. Total income. Line 11900. Employment insurance and other benefits. Box 14 of the T4E slip.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "65": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_11905_Employmentmaternity[0].Line_11905_Amount[0]",
+            "namealt": "Step 2. Total income. Line 11905. Employment insurance maternity and parental benefits and provincial parental insurance plan benefits.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "66": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_12000_TaxableDividends[0].Line_12000_Amount[0]",
+            "namealt": "Step 2. Total income. Line 12000. Taxable amount of dividends eligible and other than eligible, from taxable Canadian corporations. Complete the Worksheet for the return. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "67": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_12010_OtherTaxableDividends[0].Line_12010_Amount[0]",
+            "namealt": "Step 2. Total income. Line 12010. Taxable amount of dividends other than eligible dividends, included on line 12000, from taxable Canadian corporations.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "68": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_12100_InvestmentIncome[0].Line_12100_Amount[0]",
+            "namealt": "Step 2. Total income. Line 12100. Interest and other investment income. Complete the Worksheet for the return.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "69": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_12200_PartnershipIncome[0].Line_12200_Amount[0]",
+            "namealt": "Step 2. Total income. Line 12200. Net partnership income. Limited or non-active partners only.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "70": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_12500_RDSP[0].Line_12500_Amount[0]",
+            "namealt": "Step 2. Total income. Line 12500. Registered disability savings plan income. Box 131 of the T4A slip.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "71": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_12599_12600_RentalIncome[0].Line_12599_Amount[0]",
+            "namealt": "Step 2. Total income. Line 12599. Rental income. Gross.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "72": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_12599_12600_RentalIncome[0].Line_12600_Amount[0]",
+            "namealt": "Step 2. Total income. Line 12600. Rental income. Net.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "73": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_12700_TaxableCapitalGains[0].Line_12700_Amount[0]",
+            "namealt": "Step 2. Total income. Line 12700. Taxable capital gains. Complete Schedule 3.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "74": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_12799_12800_SupportPayReceived[0].Line_12799_Amount[0]",
+            "namealt": "Step 2. Total income. Line 12799. Support payments received. Total.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "75": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_12799_12800_SupportPayReceived[0].Line_12800_Amount[0]",
+            "namealt": "Step 2. Total income. Line 12800. Support payments received. Taxable amount.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "76": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_12900_RRSPIncome[0].Line_12900_Amount[0]",
+            "namealt": "Step 2. Total income. Line 12900. Registered retirement savings plan income from all T4RSP slips.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "77": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_13000_OtherIncome[0].Line_13000_Specify[0]",
+            "namealt": "Step 2. Total income. Line 13000. Other income. Specify.",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Left"
+        },
+        "78": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_13000_OtherIncome[0].Line_13000_Amount[0]",
+            "namealt": "Step 2. Total income. Line 13000. Other income. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "79": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_13010_Taxablescholarship[0].Line_13010_Amount[0]",
+            "namealt": "Step 2. Total income. Line 13010. Taxable scholarship, fellowships, bursaries, and artists' project grants.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "80": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].SelfEmploymentIncome[0].Line_13499_13500_BusinessIncome[0].Line_13499_Amount[0]",
+            "namealt": "Step 2. Total income. Line 13499. Self-employment income. Business income. Gross.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "81": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].SelfEmploymentIncome[0].Line_13499_13500_BusinessIncome[0].Line_13500_Amount[0]",
+            "namealt": "Step 2. Total income. Line 13500. Self-employment income. Business income. Net.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "82": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].SelfEmploymentIncome[0].Line_13699_13700_ProfessionalIncome[0].Line_13699_Amount[0]",
+            "namealt": "Step 2. Total income. Line 13699. Self-employment income. Professional income. Gross.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "83": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].SelfEmploymentIncome[0].Line_13699_13700_ProfessionalIncome[0].Line_13700_Amount[0]",
+            "namealt": "Step 2. Total income. Line 13700. Self-employment income. Professional income. Net.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "84": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].SelfEmploymentIncome[0].Line_13899_13900_CommissionIncome[0].Line_13899_Amount[0]",
+            "namealt": "Step 2. Total income. Line 13899. Self-employment income. Commission income. Gross.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "85": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].SelfEmploymentIncome[0].Line_13899_13900_CommissionIncome[0].Line_13900_Amount[0]",
+            "namealt": "Step 2. Total income. Line 13900. Self-employment income. Commission income. Net.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "86": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].SelfEmploymentIncome[0].Line_14099_14100_FarmingIncome[0].Line_14099_Amount[0]",
+            "namealt": "Step 2. Total income. Line 14099. Self-employment income. Farming income. Gross.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "87": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].SelfEmploymentIncome[0].Line_14099_14100_FarmingIncome[0].Line_14100_Amount[0]",
+            "namealt": "Step 2. Total income. Line 14100. Self-employment income. Farming income. Net.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "88": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].SelfEmploymentIncome[0].Line_14299_14300_FishingIncome[0].Line_14299_Amount[0]",
+            "namealt": "Step 2. Total income. Line 14299. Self-employment income. Fishing income. Gross.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "89": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].SelfEmploymentIncome[0].Line_14299_14300_FishingIncome[0].Line_14300_Amount[0]",
+            "namealt": "Step 2. Total income. Line 14300. Self-employment income. Fishing income. Net.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "90": {
+            "type": "",
+            "name": "form1[0].Page3[0].SelfEmploymentIncome[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "91": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_14400_WorkersCompBen[0].Line_14400_Amount[0]",
+            "namealt": "Step 2. Total income. Line 14400. Workers' compensation benefits. Box 10 of the T5007 slip.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "92": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_14500_SocialAssistPay[0].Line_14500_Amount[0]",
+            "namealt": "Step 2. Total income. Line 14500. Social assistance payments.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "93": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_14600_NetFedSupplements[0].Line_14600_Amount[0]",
+            "namealt": "Step 2. Total income. Line 14600. Net federal supplements. Box 21 of the T4A(OAS) slip.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "94": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_14700_AddLines[0].Line_14700_EqualsAmount[0]",
+            "namealt": "Step 2. Total income. Line 14700. Add lines 14400, 14500, and 14600. See line 25000 in Step 4. Instance 1.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "95": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_14700_AddLines[0].Line_14700_PlusAmount[0]",
+            "namealt": "Step 2. Total income. Line 14700. Add lines 14400, 14500, and 14600. See line 25000 in Step 4. Instance 2.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "96": {
+            "type": "Text",
+            "name": "form1[0].Page3[0].Line_15000_TotalIncome[0].Line_15000_Amount[0]",
+            "namealt": "Step 2. Total income. Line 15000. This is your total income. Add lines 10100, 10400 to 11400, 11500 to 11700, 11900, 12000, 12100 to 12500, 12600, 12700, 12800, 12900 to 13010, 13500, 13700, 13900, 14100, 14300, and 14700.  ",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "97": {
+            "type": "",
+            "name": "form1[0].Page3[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "98": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_15000_TotalIncome_2[0].Line_15000_Amount[0]",
+            "namealt": "Step 3. Net income. Line 15000. Enter your total income from line 15000 from the previous page.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "99": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_20600_PensionAdjustment[0].Line_20600_Amount[0]",
+            "namealt": "Step 3. Net income. Line 20600. Pension adjustment. Box 52 of all T4 slips and box 034 of all T4A slips.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "100": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_20700_RPPDeduction[0].Line_20700_Amount[0]",
+            "namealt": "Step 3. Net income. Line 20700. Registered pension plan deduction. Box 20 of all T4 slips and box 032 of all T4A slips.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "101": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_20800_RRSPDeduction[0].Line_20800_Amount[0]",
+            "namealt": "Step 3. Net income. Line 20800. Registered retirement savings plan deduction. See Schedule 7 and attach receipts.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "102": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_20810_PRPP[0].Line_20810_Amount[0]",
+            "namealt": "Step 3. Net income. Line 20810. Pooled registered pension plan employer contributions. Amount from your pooled registered pension plan contribution receipts.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "103": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_21000_SplitPensionDeduction[0].Line_21000_Amount[0]",
+            "namealt": "Step 3. Net income. Line 21000. Deduction for elected split-pension amount. Get and complete Form T1032.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "104": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_21200_Dues[0].Line_21200_Amount[0]",
+            "namealt": "Step 3. Net income. Line 21200. Annual union, professional, or like dues. Receipts and box 44 of all T4 slips.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "105": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_21300_UCCBRepayment[0].Line_21300_Amount[0]",
+            "namealt": "Step 3. Net income. Line 21300. Universal child care benefit repayment. Box 12 of all RC62 slips.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "106": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_21400_ChildCareExpenses[0].Line_21400_Amount[0]",
+            "namealt": "Step 3. Net income. Line 21400. Child care expenses. Get and complete Form T778.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "107": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_21500_DisabilityDeduction[0].Line_21500_Amount[0]",
+            "namealt": "Step 3. Net income. Line 21500. Disability supports deduction. Get and complete Form T929.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "108": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_21699_21700_BusinessLoss[0].Line_21699_Amount[0]",
+            "namealt": "Step 3. Net income. Line 21699. Business investment loss. Gross.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "109": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_21699_21700_BusinessLoss[0].Line_21700_Amount[0]",
+            "namealt": "Step 3. Net income. Line 21700. Business investment loss. Allowable deduction.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "110": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_21900_MovingExpenses[0].Line_21900_Amount[0]",
+            "namealt": "Step 3. Net income. Line 21900. Moving expenses. Get and complete Form T1-M.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "111": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_21999_22000_SupportPayments[0].Line_21999_Amount[0]",
+            "namealt": "Step 3. Net income. Line 21999. Support payments made. Total.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "112": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_21999_22000_SupportPayments[0].Line_22000_Amount[0]",
+            "namealt": "Step 3. Net income. Line 22000. Support payments made. Allowable deduction.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "113": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_22100_CarryingChargesInterest[0].Line_22100_Amount[0]",
+            "namealt": "Step 3. Net income. Line 22100. Carrying charges and interest expenses. Complete the Worksheet for the return.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "114": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_22200_CPP_QPP_Contributions[0].Line_22200_Amount[0]",
+            "namealt": "Step 3. Net income. Line 22200. Deduction for Canada pension plan or Quebec pension plan contributions on self-employment and other earnings. Complete Schedule 8 or get and complete Form RC381, whichever applies.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "115": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_22215_DeductionCPP_QPP[0].Line_22215_Amount[0]",
+            "namealt": "Step 3. Net income. Line 22215. Deduction for Canada pension plan or Quebec pension plan enhanced contributions on employment income. Complete Schedule 8 or get and complete Form RC381, whichever applies.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "116": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_22400_XplorationDevExpenses[0].Line_22400_Amount[0]",
+            "namealt": "Step 3. Net income. Line 22400. Exploration and development expenses. Get and complete Form T1229.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "117": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_22900_OtherEmployExpenses[0].Line_22900_Amount[0]",
+            "namealt": "Step 3. Net income. Line 22900. Other employment expenses.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "118": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_23100_ClergyResDeduction[0].Line_23100_Amount[0]",
+            "namealt": "Step 3. Net income. Line 23100. Clergy residence deduction. Get and complete Form T1223.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "119": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_23200_OtherDeductions[0].Line_23200_Specify[0]",
+            "namealt": "Step 3. Net income. Line 23200. Other deductions. Specify.",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Left"
+        },
+        "120": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_23200_OtherDeductions[0].Line_23200_Amount[0]",
+            "namealt": "Step 3. Net income. Line 23200. Other deductions. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "121": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_23300_AddLines[0].Line_23300_Amount1[0]",
+            "namealt": "Step 3. Net income. Line 23300. Add lines 20700, 20800, 21000 to 21500,  21700, 21900, 22000, and 22100 to 23200. Instance 1.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "122": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_23300_AddLines[0].Line_23300_Amount2[0]",
+            "namealt": "Step 3. Net income. Line 23300. Add lines 20700, 20800, 21000 to 21500,  21700, 21900, 22000, and 22100 to 23200. Instance 2.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "123": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_23400_NetBeforeAdjust[0].Line_23400_Amount[0]",
+            "namealt": "Step 3. Net income. Line 23400. This is your net income before adjustments. Line 15000 minus line 23300. If negative, enter 0.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "124": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_23500_SocialBenefits[0].Line_23500_Amount[0]",
+            "namealt": "Step 3. Net income. Line 23500. Social benefits repayment. If you reported income at line 11900 and the amount at line 23400 is greater than $66,375, see the repayment chart on the back of your T4E slip. If you reported income on lines 11300 or 14600, and the amount at line 23400 is greater than $77,580, complete the chart for line 23500 on the Worksheet for the return. Otherwise, enter 0.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "125": {
+            "type": "Text",
+            "name": "form1[0].Page4[0].Line_23600_NetIncome[0].Line_23600_Amount[0]",
+            "namealt": "Step 3. Net income. Line 23600. This is your net income. Line 23400 minus line 23500. If negative, enter 0.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "126": {
+            "type": "",
+            "name": "form1[0].Page4[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "127": {
+            "type": "Text",
+            "name": "form1[0].Page5[0].TaxableIncome[0].Line_24400_MilitaryPoliceDeduction[0].Line_24400_Amount[0]",
+            "namealt": "Step 4. Taxable income. Line 24400. Canadian Forces personnel and police deduction. Box 43 of all T4 slips.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "128": {
+            "type": "Text",
+            "name": "form1[0].Page5[0].TaxableIncome[0].Line_24900_SecurityDeductions[0].Line_24900_Amount[0]",
+            "namealt": "Step 4. Taxable income. Line 24900. Security options deductions.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "129": {
+            "type": "Text",
+            "name": "form1[0].Page5[0].TaxableIncome[0].Line_25000_OtherPayDeductions[0].Line_25000_Amount[0]",
+            "namealt": "Step 4. Taxable income. Line 25000. Other payments deduction. Claim the amount from line 14700, unless it includes an amount at line 14600. If so, see line 25000 in the guide.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "130": {
+            "type": "Text",
+            "name": "form1[0].Page5[0].TaxableIncome[0].Line_25100_PartnershipLosses[0].Line_25100_Amount[0]",
+            "namealt": "Step 4. Taxable income. Line 25100. Limited partnership losses of other years.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "131": {
+            "type": "Text",
+            "name": "form1[0].Page5[0].TaxableIncome[0].Line_25200_NoncapitalLosses[0].Line_25200_Amount[0]",
+            "namealt": "Step 4. Taxable income. Line 25200. Non-capital losses of other years.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "132": {
+            "type": "Text",
+            "name": "form1[0].Page5[0].TaxableIncome[0].Line_25300_NetCapitalLosses[0].Line_25300_Amount[0]",
+            "namealt": "Step 4. Taxable income. Line 25300. Net capital losses of other years.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "133": {
+            "type": "Text",
+            "name": "form1[0].Page5[0].TaxableIncome[0].Line_25400_CapitalGainsDeduction[0].Line_25400_Amount[0]",
+            "namealt": "Step 4. Taxable income. Line 25400. Capital gains deduction. Get and complete Form T657.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "134": {
+            "type": "Text",
+            "name": "form1[0].Page5[0].TaxableIncome[0].Line_25500_NorthernDeductions[0].Line_25500_Amount[0]",
+            "namealt": "Step 4. Taxable income. Line 25500. Northern residents deductions. Get and complete Form T2222.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "135": {
+            "type": "Text",
+            "name": "form1[0].Page5[0].TaxableIncome[0].Line_25600_AdditionalDeductions[0].Line_25600_Specify[0]",
+            "namealt": "Step 4. Taxable income. Line 25600. Additional deductions. Specify.",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Left"
+        },
+        "136": {
+            "type": "Text",
+            "name": "form1[0].Page5[0].TaxableIncome[0].Line_25600_AdditionalDeductions[0].Line_25600_Amount[0]",
+            "namealt": "Step 4. Taxable income. Line 25600. Additional deductions. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "137": {
+            "type": "Text",
+            "name": "form1[0].Page5[0].TaxableIncome[0].Line_25700_AddLines[0].Line_25700_Amount1[0]",
+            "namealt": "Step 4. Taxable income. Line 25700. Add lines 24400 to 25600. Instance 1.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "138": {
+            "type": "Text",
+            "name": "form1[0].Page5[0].TaxableIncome[0].Line_25700_AddLines[0].Line_25700_Amount2[0]",
+            "namealt": "Step 4. Taxable income. Line 25700. Add lines 24400 to 25600. Instance 2.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "139": {
+            "type": "Text",
+            "name": "form1[0].Page5[0].TaxableIncome[0].Line_26000_TaxableIncome[0].Line_26000_Amount[0]",
+            "namealt": "Step 4. Taxable income. Line 26000. This is your taxable income. Line 23600 minus line 25700. If negative, enter 0.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "140": {
+            "type": "",
+            "name": "form1[0].Page5[0].TaxableIncome[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "141": {
+            "type": "",
+            "name": "form1[0].Page5[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "142": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line300_Sub[0].Line1_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 30000. Line 1. Basic personal amount. Claim $12,069.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "143": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line30100_Sub[0].Line2_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 30100. Line 2. Age amount. If you were born in 1954 or earlier. Complete the Worksheet for the return. Maximum $7,494.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "144": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line30300_Sub[0].Line3_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 30300. Line 3. Spouse or common-law partner amount. Complete Schedule 5.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "145": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line30400_Sub[0].Line4_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 30400. Line 4. Amount for an eligible dependant. Complete Schedule 5.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "146": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line30425_sub[0].Line4_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 30425. Line 5. Canada caregiver amount for spouse or common-law partner, or eligible dependant age 18 or older. Complete Schedule 5.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "147": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line30450_Sub[0].Line6_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 30450. Line 6. Canada caregiver amount for other infirm dependants age 18 or older. Complete Schedule 5.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "148": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line30500[0].Line7_ChildrenNum[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 30499. Canada caregiver amount for infirm children under 18 years of age. Enter the number of children for whom you are claiming this amount.",
+            "flags": "0",
+            "value": "",
+            "justification": "Center"
+        },
+        "149": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line30500[0].NumWithoutCurrency[0]",
+            "namealt": "NumWithoutCurrency",
+            "flags": "1",
+            "value": "2,230",
+            "valuedefault": "2,230",
+            "justification": "Center"
+        },
+        "150": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line30500[0].Line7_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 30500. Line 7. Canada caregiver amount for infirm children under 18 years of age. Line 30499 multiplied by $2,230.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "151": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].CPP_QPP_Sub[0].Line30800_Sub[0].Line8_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 30800. Line 8. Base Canada Pension Plan or Quebec Pension Plan contributions through employment income. Complete Schedule 8 or get and complete Form RC381, whichever applies.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "152": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].CPP_QPP_Sub[0].Line31000_Sub[0].Line9_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 31000. Line 9. Canada Pension Plan or Quebec Pension Plan contributions on self-employment and other earnings. Complete Schedule 8 or get and complete Form RC381, whichever applies. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "153": {
+            "type": "",
+            "name": "form1[0].Page6[0].Step1_Sub[0].CPP_QPP_Sub[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "154": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].EIPremiums_Sub[0].Line31200_Sub[0].Line10_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 31200. Line 10. Employment insurance premiums through employment from box 18 and box 55 of all T4 slips. Maximum $860.22.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "155": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].EIPremiums_Sub[0].Line31217_Sub[0].Line11_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 31217. Line 11. Employment insurance premiums on self-employment and other eligible earnings. Complete Schedule 13.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "156": {
+            "type": "",
+            "name": "form1[0].Page6[0].Step1_Sub[0].EIPremiums_Sub[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "157": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line31220_Sub[0].Line12_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 31220. Line 12. Volunteer firefighters' amount.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "158": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line31240_Sub[0].Line13_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 31240. Line 13. Search and rescue volunteers' amount.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "159": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line31260_Sub[0].Line14_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 31260. Line 14. Canada employment amount. Enter $1,222 or the total of your employment income you reported on lines 10100 and 10400, whichever is less.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "160": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line31270_Sub[0].Line15_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 31270. Line 15. Home buyers' amount.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "161": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line31285_sub[0].Line16_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 31285. Line 16. Home accessibility expenses. Complete the Worksheet for the return. Maximum $10,000.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "162": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line31300_Sub[0].Line17_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 31300. Line 17. Adoption expenses.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "163": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line31400_Sub[0].Line18_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 31400. Line 18. Pension income amount. Complete the Worksheet for the return. Maximum $2,000.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "164": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line31600_Sub[0].Line19_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 31600. Line 19. Disability amount for self. Claim $8,416, or if you were under 18 years of age, complete the Worksheet for the return.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "165": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line31800_Sub[0].Line20_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 31800. Line 20. Disability amount transferred from a dependant. Complete the Worksheet for the return.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "166": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line31900_Sub[0].Line21_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 31900. Line 21. Interest paid on your student loans. See Guide P105.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "167": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line32300_Sub[0].Line22_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 32300. Line 22. Your tuition, education, and textbook amounts. Complete Schedule 11.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "168": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line32400_Sub[0].Line23_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 32400. Line 23. Tuition amount transferred from a child.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "169": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line32600_Sub[0].Line24_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 32600. Line 24. Amounts transferred from your spouse or common-law partner. Complete Schedule 2.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "170": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Medical_expenses_sub[0].Line25_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 33099. Line 25. Medical expenses for self, spouse or common-law partner, and your dependent children born in 2002 or later.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "171": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Medical_expenses_sub[0].Line26_Sub[0].Line26_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 26. Enter $2,352 or 3 percent of line 23600, whichever is less.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "172": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Medical_expenses_sub[0].Line27_Sub[0].Line27_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 27. Line 25 minus line 26. If negative, enter 0.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "173": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line33199_Sub[0].Line28_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 33199. Line 28. Allowable amount of medical expenses for other dependants. Complete the Worksheet for the return.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "174": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line33200_Sub[0].Line29_Amount1[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 33200. Line 29. Add lines 27 and 28. Instance 1.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "175": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line33200_Sub[0].Line29_Amount2[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 33200. Line 29. Add lines 27 and 28. Instance 2.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "176": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line33500_Sub[0].Line30_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 33500. Line 30. Add lines 1 to 24, and line 29.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "177": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line31_Sub[0].Line31_Rate[0]",
+            "namealt": "Line 31. Federal non-refundable tax credit rate.",
+            "flags": "1",
+            "value": "15%",
+            "valuedefault": "15%",
+            "justification": "Right"
+        },
+        "178": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line33800_Sub[0].Line32_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 33800. Line 32. Multiply line 30 by line 31.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "179": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line34900_Sub[0].Line33_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 34900. Line 33. Donations and gifts. Complete Schedule 9.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "180": {
+            "type": "Text",
+            "name": "form1[0].Page6[0].Step1_Sub[0].Line35000_Sub[0].Line34_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step A. Federal non-refundable tax credits. Line 35000. Line 34. Total federal non-refundable tax credits. Add lines 32 and 33. Enter this amount on line 46 on the next page.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "181": {
+            "type": "",
+            "name": "form1[0].Page6[0].Step1_Sub[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "182": {
+            "type": "",
+            "name": "form1[0].Page6[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "183": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Line35_sub[0].Line35_Amount[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 35. Enter your taxable income from line 26000.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "184": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column1[0].Line36Amount1[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 36. Line 35 is $47,630 or less. Enter the amount from line 35. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "185": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column1[0].Line37Amount1[0]",
+            "namealt": "Line 37. Line 35 is $47,630 or less.",
+            "flags": "1",
+            "value": " 0.00",
+            "valuedefault": " 0.00",
+            "justification": "Right"
+        },
+        "186": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column1[0].Line38Amount1[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 38. Line 35 is $47,630 or less. Line 36 minus line 37. Cannot be negative.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "187": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column1[0].Line39Rate1[0]",
+            "namealt": "Line 39. Line 35 is $47,630 or less.",
+            "flags": "1",
+            "value": "15%",
+            "valuedefault": "15%",
+            "justification": "Right"
+        },
+        "188": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column1[0].Line40Amount1[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 40. Line 35 is $47,630 or less. Multiply line 38 by line 39.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "189": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column1[0].Line41Amount1[0]",
+            "namealt": "Line 41. Line 35 is $47,630 less.",
+            "flags": "1",
+            "value": " 0.00",
+            "valuedefault": " 0.00",
+            "justification": "Right"
+        },
+        "190": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column1[0].Line42Amount1[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 42. Line 35 is $47,630 or less. Add lines 40 and 41.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "191": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column2[0].Line36Amount2[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 36. Line 35 is more than $47,630 but not more than $95,259. Enter the amount from line 35.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "192": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column2[0].Line37Amount2[0]",
+            "namealt": "Line 37. Line 35 is more than $47,630 but not more than $95,259.",
+            "flags": "1",
+            "value": " 47,630.00",
+            "valuedefault": " 47,630.00",
+            "justification": "Right"
+        },
+        "193": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column2[0].Line38Amount2[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 38. Line 35 is more than $47,630 but not more than $95,259. Line 36 minus line 37. Cannot be negative.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "194": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column2[0].Line39Rate2[0]",
+            "namealt": "Line 39. Line 35 is more than $47,630 but not more than $95,259.",
+            "flags": "1",
+            "value": "20.5%",
+            "valuedefault": "20.5%",
+            "justification": "Right"
+        },
+        "195": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column2[0].Line40Amount2[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 40. Line 35 is more than $47,630 but not more than $95,259. Multiply line 38 by line 39.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "196": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column2[0].Line41Amount2[0]",
+            "namealt": "Line 41. Line 35 is more than $95,259 but not more than $147,667.",
+            "flags": "1",
+            "value": " 7,145.00",
+            "valuedefault": " 7,145.00",
+            "justification": "Right"
+        },
+        "197": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column2[0].Line42Amount2[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 42. Line 35 is more than $47,630 but not more than $95,259. Add lines 40 and 41.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "198": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column3[0].Line36Amount3[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 36. Line 35 is more than $95,259 but not more than $147,667. Enter the amount from line 35. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "199": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column3[0].Line37Amount3[0]",
+            "namealt": "Line 37. Line 35 is more than $95,259 but not more than $147,667.",
+            "flags": "1",
+            "value": " 95,259.00",
+            "valuedefault": " 95,259.00",
+            "justification": "Right"
+        },
+        "200": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column3[0].Line38Amount3[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 38. Line 35 is more than $95,259 but not more than $147,667. Line 36 minus line 37. Cannot be negative.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "201": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column3[0].Line39Rate3[0]",
+            "namealt": "Line 39. Line 35 is more than $95,259 but not more than $147,667.",
+            "flags": "1",
+            "value": "26%",
+            "valuedefault": "26%",
+            "justification": "Right"
+        },
+        "202": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column3[0].Line40Amount3[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 40. Line 35 is more than $95,259 but not more than $147,667. Multiply line 38 by line 39. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "203": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column3[0].Line41Amount3[0]",
+            "namealt": "Line 41. Line 35 is more than $95,259 but not more than $147,667.",
+            "flags": "1",
+            "value": " 16,908.00",
+            "valuedefault": " 16,908.00",
+            "justification": "Right"
+        },
+        "204": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column3[0].Line42Amount3[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 42. Line 35 is more than $95,259 but not more than $147,667. Add lines 40 and 41.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "205": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column4[0].Line36Amount4[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 36. Line 35 is more than $147,667 but not more than $210,371. Enter the amount from line 35. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "206": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column4[0].Line37Amount4[0]",
+            "namealt": "Line 37. Line 35 is more than $147,667 but not more than $210,371. ",
+            "flags": "1",
+            "value": " 147,667.00",
+            "valuedefault": " 147,667.00",
+            "justification": "Right"
+        },
+        "207": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column4[0].Line38Amount4[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 38. Line 35 is more than $147,667 but not more than $210,371. Line 36 minus line 37. Cannot be negative.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "208": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column4[0].Line39Rate4[0]",
+            "namealt": "Line 39. Line 35 is more than $147,667 but not more than $210,371. ",
+            "flags": "1",
+            "value": "29%",
+            "valuedefault": "29%",
+            "justification": "Right"
+        },
+        "209": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column4[0].Line40Amount4[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 40. Line 35 is more than $147,667 but not more than $210,371. Multiply line 38 by line 39. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "210": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column4[0].Line41Amount4[0]",
+            "namealt": "Line 41. Line 35 is more than $147,667 but not more than $210,371. ",
+            "flags": "1",
+            "value": " 30,535.00",
+            "valuedefault": " 30,535.00",
+            "justification": "Right"
+        },
+        "211": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column4[0].Line42Amount4[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 42. Line 35 is more than $147,667 but not more than $210,371. Add lines 40 and 41.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "212": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column5[0].Line36Amount5[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 36. Line 35 is more than $210,371. Enter the amount from line 35. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "213": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column5[0].Line37Amount5[0]",
+            "namealt": "Line 37. Line 35 is more than $210,371.",
+            "flags": "1",
+            "value": " 210,371.00",
+            "valuedefault": " 210,371.00",
+            "justification": "Right"
+        },
+        "214": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column5[0].Line38Amount5[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 38. Line 35 is more than $210,371. Line 36 minus line 37. Cannot be negative.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "215": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column5[0].Line39Rate5[0]",
+            "namealt": "Line 39. Line 35 is more than $210,371.",
+            "flags": "1",
+            "value": "33%",
+            "valuedefault": "33%",
+            "justification": "Right"
+        },
+        "216": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column5[0].Line40Amount5[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 40. Line 35 is more than $210,371. Multiply line 38 by line 39. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "217": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column5[0].Line41Amount5[0]",
+            "namealt": "Line 41. Line 35 is more than $210,371.",
+            "flags": "1",
+            "value": " 48,719.00",
+            "valuedefault": " 48,719.00",
+            "justification": "Right"
+        },
+        "218": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step2_Sub[0].Column5[0].Line42Amount5[0]",
+            "namealt": "Step 5. Federal tax. Step B. Federal tax on taxable income. Line 42. Line 35 is more than $210,371. Add lines 40 and 41.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "219": {
+            "type": "",
+            "name": "form1[0].Page7[0].Step2_Sub[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "220": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line43_sub[0].Line43Amount[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax. Line 43. Enter the amount from line 42.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "221": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line44_Sub[0].Line44Amount[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 40424. Line 44. Federal tax on split income. Get and complete Form T1206.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "222": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line40400_Sub[0].Line45Amount1[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 40400. Add lines 43 and 44.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "223": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line40400_Sub[0].Line45Amount2[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 45. Amount from line 40400.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "224": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line35000_sub[0].Line46Amount[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 35000. Line 46. Enter your total federal non-refundable tax credits from line 34 on the previous page.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "225": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line40425_Sub[0].Line47Amount[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 40425. Line 47. Federal dividend tax credit. See line 40425 in the guide.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "226": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line40427_Sub[0].Line48Amount[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 40427. Line 48. Minimum tax carryover. Get and complete Form T691.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "227": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line49_sub[0].Line49Amount1[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 49. Add lines 46, 47, and 48. Instance 1.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "228": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line49_sub[0].Line49Amount2[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 49. Add lines 46, 47, and 48. Instance 2.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "229": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line42900_sub[0].Line50Amount[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 42900. Line 50. Basic federal tax. Line 45 minus line 49. If negative, enter 0.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "230": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line40500_sub[0].Line51Amount[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 40500. Line 51. Federal foreign tax credit. Get and complete Form T2209.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "231": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line40600_sub[0].Line52Amount[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 40600. Line 52. Federal tax. Line 50 minus line 51. If negative, enter 0.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "232": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line40900_sub[0].Line53Amount[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 40900. Line 53. Total federal political contributions. Attach receipts.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "233": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line41000_sub[0].Line54Amount[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 41000. Line 54. Federal political contribution tax credit. Complete the Worksheet for the return. Maximum $650.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "234": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line41200_sub[0].Line55Amount[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 41200. Line 55. Investment tax credit. Get and complete Form T2038(IND).",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "235": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line41400_sub[0].Line56Amount1[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 41300. Labour-sponsored funds tax credit. See lines 41300 and 41400 in the guide. Net cost of shares of a provincially registered fund.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "236": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line41400_sub[0].Line56Amount2[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 41400. Line 56. Labour-sponsored funds tax credit. See lines 41300 and 41400 in the guide. Allowable credit.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "237": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line41600_sub[0].Line57Amount1[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 41600. Add lines 54, 55, and 56. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "238": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line41600_sub[0].Line57Amount2[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 57. Amount from line 41600.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "239": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line41700_sub[0].Line58Amount[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 41700. Line 58. Line 52 minus line 57. If negative, enter 0.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "240": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line41500_sub[0].Line59Amount[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 41500. Line 59. Canada workers benefit advance payments received. Box 10 of the RC210 slip.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "241": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line41800_sub[0].Line60Amount[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 41800. Line 60. Special taxes. See line 41800 in the guide.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "242": {
+            "type": "Text",
+            "name": "form1[0].Page7[0].Step3_Sub[0].Line42000_sub[0].Line61Amount[0]",
+            "namealt": "Step 5. Federal tax. Step C. Net federal tax Line 42000. Line 61. Net federal tax. Add lines 58, 59, and 60. Enter this amount on line 42000 on the next page..",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "243": {
+            "type": "",
+            "name": "form1[0].Page7[0].Step3_Sub[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "244": {
+            "type": "",
+            "name": "form1[0].Page7[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "245": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_42000_NetFedTax[0].Line_42000_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 42000. Net federal tax. Enter the amount from line 61 from the previous page.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "246": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_42100_CPPContributions[0].Line_42100_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 42100. Canada pension plan contributions payable on self-employment and other earnings. Complete Schedule 8 or get and complete Form RC381, whichever applies.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "247": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_42120_EIPremiums[0].Line_42120_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 42120. Employment insurance premiums payable on self-employment and other eligible earnings. Complete Schedule 13.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "248": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_42200_SocialBenefits[0].Line_42200_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 42200. Social benefits repayment. Amount from line 23500.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "249": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_42800_ProvTerrTax[0].Line_42800_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 42800. Provincial or territorial tax. Attach Form 428, even if the result is 0.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "250": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_43500_TotalPayable[0].Line_43500_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 43500. This is your total payable. Add lines 42000, 42100, 42120, 42200, and 42800.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "251": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_43700_TotalIncomeTaxDeducted[0].Line_43700_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 43700. Total income tax deducted. Amounts from all Canadian slips.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "252": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_44000Sub[0].Line_44000_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 44000. Refundable Quebec abatement. See line 44000 in the guide.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "253": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_44800_CPPOverpayment[0].Line_44800_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 44800. Canada pension plan overpayment. See line 30800 in the guide.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "254": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_45000_EIOverpayment[0].Line_45000_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 45000. Employment insurance overpayment. See line 45000 in the guide.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "255": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_45110_EIOverpayment[0].Line_45000_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 45110. Climate Action Incentive. Complete Schedule 14.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "256": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_45200_MedicalExpense[0].Line_45200_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 45200. Refundable medical expense supplement. Complete the Worksheet for the return.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "257": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_45300_WITB[0].Line_45300_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 45300. Canada workers benefit. Complete Schedule 6.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "258": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_45400_InvestmentTaxCredit[0].Line_45400_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 45400. Refund of investment tax credit. Get and complete Form T2038(IND).",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "259": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_45600_TrustTaxCredit[0].Line_45600_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 45600. Part XII.2 trust tax credit. Box 38 of all T3 slips and box 209 of all T5013 slips.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "260": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_45700_GST_HST_Rebate[0].Line_45700_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 45700. Employee and partner goods and services tax/harmonized sales tax rebate. Get and complete Form GST370.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "261": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].EligibleEducatorSchoolSypplyTaxCredit[0].sfline46800end[0].Line_46800_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 46800. Eligible educator school supply tax credit. Supplies expenses. Maximum $1,000.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "262": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].EligibleEducatorSchoolSypplyTaxCredit[0].Line_46900_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 46900. Line 46800 multiplied by fifteen percent. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "263": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_47600_TaxPaid[0].Line_47600_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 47600. Tax paid by instalments.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "264": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_47900_ProvTerrCredits[0].Line_47900_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 47900. Provincial or territorial credits. Complete Form 479 if it applies.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "265": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_48200_AddLines[0].Line_48200_Amount1[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 48200. These are your total credits. Add lines 43700 to 45700, and 46900 to 47900. Instance 1.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "266": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_48200_AddLines[0].Line_48200_Amount2[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 48200. These are your total credits. Add lines 43700 to 45700, and 46900 to 47900. Instance 2.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "267": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Refund_BalanceOwing[0].Refund_or_BalanceOwing_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. This is your refund or balance owing. Line 43500 minus line 48200. ",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "268": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Refund_BalanceOwing[0].Line_484_Refund[0].Line_484_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 48400. Refund.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "269": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Refund_BalanceOwing[0].Line_485_BalanceOwing[0].Line_485_Amount[0]",
+            "namealt": "Step 7. Refund or balance owing. Line 48500. Balance owing.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "270": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].ONOpportunitiesFund2[0].Line_1_Amount[0]",
+            "namealt": "Ontario opportunities fund. You can help reduce Ontario's debt by completing this area to donate some or all of your 2019 refund to the Ontario opportunities fund. Please see the provincial pages for details. Line 1. Amount from line 48400 above.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "271": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].ONOpportunitiesFund2[0].Line_46500_Amount[0]",
+            "namealt": "Ontario opportunities fund. Line 46500. Line 2. Your donation to the Ontario opportunities fund.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "272": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].ONOpportunitiesFund2[0].Line_46600_Amount[0]",
+            "namealt": "Ontario opportunities fund. Line 46600. Line 3. Net refund. Line 1 minus line 2.",
+            "flags": "0",
+            "value": "",
+            "justification": "Right"
+        },
+        "273": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Certification[0].Telephone[0]",
+            "namealt": "Telephone number. 10 digits.",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Center"
+        },
+        "274": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Certification[0].Date[0]",
+            "namealt": "Date. Year 4 digits. Month 2 digits. Day 2 digits.",
+            "flags": "0",
+            "value": "",
+            "justification": "Center"
+        },
+        "275": {
+            "type": "Button",
+            "name": "form1[0].Page8[0].Line_49000_IfFeeWasCharged[0].Line49000_CheckBoxGroup[0].Line49000_CheckBox_EN[0]",
+            "namealt": "Line 49000. Was a fee charged. Yes.",
+            "flags": "0",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "1",
+                "Off"
+            ]
+        },
+        "276": {
+            "type": "Button",
+            "name": "form1[0].Page8[0].Line_49000_IfFeeWasCharged[0].Line49000_CheckBoxGroup[0].Line49000_CheckBox_EN[1]",
+            "namealt": "Line 49000. Was a fee charged. No.",
+            "flags": "0",
+            "value": "",
+            "justification": "Left",
+            "stateoption": [
+                "2",
+                "Off"
+            ]
+        },
+        "277": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_49000_IfFeeWasCharged[0].EFileNumber_Comb[0].EFile[0]",
+            "namealt": "Line 48900. EFILE number, if applicable. 5 characters.",
+            "flags": "25165824",
+            "value": "",
+            "justification": "Left",
+            "maxlength": "5"
+        },
+        "278": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_49000_IfFeeWasCharged[0].NameOfPreparer[0]",
+            "namealt": "Name of tax professional.",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Left"
+        },
+        "279": {
+            "type": "Text",
+            "name": "form1[0].Page8[0].Line_49000_IfFeeWasCharged[0].TelephoneOfPreparer[0]",
+            "namealt": "Telephone number. 10 digits.",
+            "flags": "8388608",
+            "value": "",
+            "justification": "Left"
+        },
+        "280": {
+            "type": "",
+            "name": "form1[0].Page8[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        },
+        "281": {
+            "type": "",
+            "name": "form1[0]",
+            "flags": "0",
+            "value": "",
+            "justification": "Left"
+        }
+    }
+}
