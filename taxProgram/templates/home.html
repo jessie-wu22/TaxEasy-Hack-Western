@@ -1,0 +1,52 @@
+{% extends "layout.html" %}
+{% block content %}
+    
+
+<div class="parent">
+    <div class="col-md-4" style="float:right; padding-top:170px">
+        <div class="content-section">
+        <div">
+            <h4>Most requested</h4>
+            <ul class="list-group">
+                <li class="list-group-item list-group-item-light" style="text-decoration: underline">All online services</li>
+                <li class="list-group-item list-group-item-light" style="text-decoration: underline">General income tax guide</li>
+                <li class="list-group-item list-group-item-light" style="text-decoration: underline">Change your address</li>
+                <li class="list-group-item list-group-item-light" style="text-decoration: underline">Disability tax credit</li>
+                <li class="list-group-item list-group-item-light" style="text-decoration: underline">GST/HST credit</li>
+                <li class="list-group-item list-group-item-light" style="text-decoration: underline">Forms and publications</li>
+            </ul>
+        </div>
+        </div>
+    </div>
+    <div class="col-md-8" style="float:left">
+
+        <h3 class="heading" style="padding-top:125px; color: #1F2632"><span class="underline--magical" style="background-image: linear-gradient(120deg, #ffc24a 0%, #f72727 100%);
+            background-repeat: no-repeat;
+            background-size: 100% 0.2em;
+            background-position: 0 88%;
+            transition: background-size 0.25s ease-in">Welcome </span>to your account, Jessie!</h3>
+
+
+        <h1 class="title" style="color: #1F2632; padding-top: 50px; font-weight: bold">File your tax returns<h1>
+        <img src="{{ url_for('static', filename='taxeasy-logo.png') }}" width="250"></img>
+        <h6 class="text-body" style="color:black; padding-top: 15px"> Deadline: The due date for filing individual tax returns was extended to June 1, 2021. Taxpayers will have until September 30, 2021 to pay any 2020 income tax amounts owed.</h6>
+        
+        <div>
+            <h6 class="text-body" style="color:black; padding-top: 30px; font-weight: bold; text-decoration: underline"> Step 1: Provide and update your personal information</h6>
+            <h6 class="text-body" style="color: green; font-weight: bold"> Complete</h6>
+            <h6 class="text-body" style="color:black; padding-top: 30px; font-weight: bold; text-decoration: underline"> Step 2: Generate your tax returns</h6>
+        </div>
+        
+        <a href="upload"><button type="button" class="btn btn-danger" style="padding-left:20px; padding-right:20px" >Start</button></a>
+        <h6 class="text-body" style="color:black; padding-top: 30px; font-weight: bold; text-decoration: underline"> Step 3: Claim your deductions, tax credits and expenses </h6>
+        <h6 >This step becomes available once your tax returns have been processed.</h6>
+
+    <div>
+        
+    
+
+</div>
+    
+
+
+{% endblock content %}

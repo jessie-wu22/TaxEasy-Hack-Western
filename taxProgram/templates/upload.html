@@ -1,0 +1,116 @@
+{% extends "layout.html" %}
+{% block content %}
+    <head>
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    </head>
+
+    <body>
+        <div class="container" class="col-md-4" style="float: left">
+            <div class="row" style="padding-top:50px">
+                <div class="col">
+
+                    <h1 style="padding-top: 80px">Upload your files</h1>
+                    <hr>
+
+                    <form id="upload-form" action="{{ url_for('upload')}}" method="POST" enctype="multipart/form-data" style="padding-top:10px">
+                        <p>
+                            <h5 class="heading">Select your <span class="underline--magical" style="background-image: linear-gradient(120deg, #ffc24a 0%, #f72727 100%);
+                                background-repeat: no-repeat;
+                                background-size: 100% 0.2em;
+                                background-position: 0 88%;
+                                transition: background-size 0.25s ease-in">T4 file:</span></h5>
+                        </p>
+                        <input id="file-picker" type="file" name="upload_button" value="T4"/>
+
+
+                        <p>
+                            <h5 class="heading" style="padding-top:10px">Select your <span class="underline--magical" style="background-image: linear-gradient(120deg, #ffc24a 0%, #f72727 100%);
+                                background-repeat: no-repeat;
+                                background-size: 100% 0.2em;
+                                background-position: 0 88%;
+                                transition: background-size 0.25s ease-in">T4A file:</span></h5>
+                        </p>
+                        <input id="file-picker" type="file" name="upload_button" value="T4A"/>
+
+
+                        <p>
+                            <h5 class="heading" style="padding-top:10px">Select your <span class="underline--magical" style="background-image: linear-gradient(120deg, #ffc24a 0%, #f72727 100%);
+                                background-repeat: no-repeat;
+                                background-size: 100% 0.2em;
+                                background-position: 0 88%;
+                                transition: background-size 0.25s ease-in">T4A (OAS) file:</span></h5>
+                        </p>
+                        <input id="file-picker" type="file" name="upload_button" value="T4A (OAS)"/>
+
+
+                        <p>
+                            <h5 class="heading" style="padding-top:10px">Select your <span class="underline--magical" style="background-image: linear-gradient(120deg, #ffc24a 0%, #f72727 100%);
+                                background-repeat: no-repeat;
+                                background-size: 100% 0.2em;
+                                background-position: 0 88%;
+                                transition: background-size 0.25s ease-in">T4AP file:</span></h5>
+                        </p>
+                        <input id="file-picker" type="file" name="upload_button" value="T4AP"/>
+
+
+                        <p>
+                            <h5 class="heading" style="padding-top:10px">Select your <span class="underline--magical" style="background-image: linear-gradient(120deg, #ffc24a 0%, #f72727 100%);
+                                background-repeat: no-repeat;
+                                background-size: 100% 0.2em;
+                                background-position: 0 88%;
+                                transition: background-size 0.25s ease-in">T1032 file:</span></h5>
+                        </p>
+                        <input id="file-picker" type="file" name="upload_button" value="T4AP"/>
+
+
+                        <p>
+                            <h5 class="heading" style="padding-top:10px">Select your <span class="underline--magical" style="background-image: linear-gradient(120deg, #ffc24a 0%, #f72727 100%);
+                                background-repeat: no-repeat;
+                                background-size: 100% 0.2em;
+                                background-position: 0 88%;
+                                transition: background-size 0.25s ease-in">T4E file:</span></h5>
+                        </p>
+                        <input id="file-picker" type="file" name="upload_button" value="T4AE"/>
+
+
+                        <a href="download">
+                            <div style="padding-top:70px; padding-bottom: 100px">
+                                <input  action="/download" method="POST" type="submit" name="upload_button" value="Generate tax form" type="button" class="button" style="background-color: #cc502b;                            
+                                border: none;
+                                color: white;
+                                padding: 15px 32px;
+                                text-align: center;
+                                text-decoration: none;
+                                display: inline-block;
+                                font-size: 16px;
+                                margin: 4px 2px;
+                                cursor: pointer;
+                                padding: 15px 32px;
+                                border-radius: 10px"/>   
+                            </div>
+                        </a>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+
+    </body>
+
+    <script>
+        $("#file-picker").change(function(){
+
+var input = document.getElementById('file-picker');
+
+for (var i=0; i<input.files.length; i++)
+{
+//koala.jpg, koala.JPG substring(index) lastIndexOf('a') koala.1.jpg
+    var ext= input.files[i].name.substring(input.files[i].name.lastIndexOf('.')+1).toLowerCase()
+}
+
+
+} );
+    </script>
+
+{% endblock content %}
+
